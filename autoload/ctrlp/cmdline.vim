@@ -29,6 +29,7 @@ let s:cmdline_var = {
 	\ 'sname': 'cmd',
 	\ 'type': 'line',
 	\ 'sort': 0,
+  \ 'nolim': 1,
 	\ }
 
 
